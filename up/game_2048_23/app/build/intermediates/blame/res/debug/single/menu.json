@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Users\\wyq13\\StudioProjects\\game_2048_23\\app\\build\\intermediates\\res\\merged\\debug\\menu\\start.xml",
+        "source": "D:\\Users\\wyq13\\StudioProjects\\game_2048_23\\app\\src\\main\\res\\menu\\start.xml"
+    },
+    {
+        "merged": "D:\\Users\\wyq13\\StudioProjects\\game_2048_23\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Users\\wyq13\\StudioProjects\\game_2048_23\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Users\\wyq13\\StudioProjects\\game_2048_23\\app\\build\\intermediates\\res\\merged\\debug\\menu\\global.xml",
+        "source": "D:\\Users\\wyq13\\StudioProjects\\game_2048_23\\app\\src\\main\\res\\menu\\global.xml"
+    }
+]

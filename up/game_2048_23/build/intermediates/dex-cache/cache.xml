@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fc25978a4940a2d05999491cc46d06fbc4580ed0">
+        <dex dex="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_15fa173c22d4d09d47db0b410b0682f7068e6bb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-26.0.0-alpha1_9d362b71c97fbd4376762b64c20d0408323216f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0-alpha1_6ba246d863a4589eb562508d9772d9056098a901\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\wyq13\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_8a7d8c4bf66de431a2e8d0e33a707d318410d99a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_9a2e0acd67fa85834921b0be82f2edf5fa3f8f8b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\wyq13\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_8a7d8c4bf66de431a2e8d0e33a707d318410d99a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_4dcdc8c35ea6a5fbeebcf67cc0fb0acfc79129f9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0-alpha1_6cb19dd0208a7b510b95ebc112a639f70bd2a0f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0-alpha1_5c2d391f43fc13c437d31a6f0d1f0cc253fbf012\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_7bce346f6a88569b211342704792da6738774567.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0-alpha1_bed0fe94f16eaabfd290022f1f680115d78ab5e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_431bff8b94e4194d88dac011d17aeb6f353e75b1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0-alpha1_0ead3ed13fbfa153871cfad2fe800ef9cc3c2d11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-26.0.0-alpha1_f44873b874cec593791a68f536b556b62ef247ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0-alpha1_cf5d5fe161eda64205369de5f914aea0d4f7b1a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_7f01882960b2f098c7a945472cfca7b335a5dd57.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-26.0.0-alpha1_f314218e93e9b613037a21dd9c494ae9301dbb75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0-alpha1_488fbb06e88bc20ecf5a9063fe76c9d781f80fb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_9d78e958bbc4db50e5747a85f2f88ccc92e920fa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8f83d400d49605b167cdba16f7ed81ff6f3b695f">
+        <dex dex="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_46cf0b5710a4b71f2a771f5f5fd8fd1cb5f7bf6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-26.0.0-alpha1_9611bd61dde6f62ec0ec8bee8b6edf32db440a0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0-alpha1_f31b745ddfff95db1e4c3d9975bfa81cd2256b70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="eef292dba5eb399f687920a1c0e4312ac943f8f6">
+        <dex dex="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3cf46cb8527185ef42c2baac365d5d782353b887\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0-alpha1_a98f4cb12d67497c595808b01d4a387a30ea4e2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0-alpha1_72031b7e51c559808ce6b8ca9df3e7e1d0076ed0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-26.0.0-alpha1_f0d9422685bb6925422a8026dcd5a852678209b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_7e36dbdc35bc49e4717308e7bcf595869a728d0b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0-alpha1_5828d92f7482db0a636c505d07353a004820a328\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_070a2ab9cf59a93b0db2e0d84b4cc98fc868ad96.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0-alpha1_423edf8e764924fb04259f9e0eb9ffc05a0994c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="deb236d3c5966defcce510abf90def08b4ef04e3">
+        <dex dex="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_15f22435cd967496406283c026d0ec9a575ccde2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Users\wyq13\StudioProjects\game_2048_23\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-26.0.0-alpha1_f5444fa600b19fc0dfb07cb97e758b6cd7bc7bc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Users\wyq13\StudioProjects\Demo_zhy_04_game_2048\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_4eab4dac2280d904454fc2e67e1aace410d72208.jar" />
+    </item>
+
+</items>

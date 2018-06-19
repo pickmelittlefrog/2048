@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Users\\wyq13\\StudioProjects\\game_2048_23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_drawer.png",
+        "source": "D:\\Users\\wyq13\\StudioProjects\\game_2048_23\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "D:\\Users\\wyq13\\StudioProjects\\game_2048_23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\Users\\wyq13\\StudioProjects\\game_2048_23\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\wyq13\\StudioProjects\\game_2048_23\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\drawer_shadow.9.png",
+        "source": "D:\\Users\\wyq13\\StudioProjects\\game_2048_23\\app\\src\\main\\res\\drawable-mdpi\\drawer_shadow.9.png"
+    }
+]
